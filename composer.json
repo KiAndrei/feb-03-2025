@@ -1,0 +1,6 @@
+{
+    "name": "depedloan/app",
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
